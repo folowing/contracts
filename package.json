@@ -1,6 +1,7 @@
 {
   "name": "@truverse/contracts",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": "github:truverse/contracts",
   "license": "Apache-2.0",
   "devDependencies": {
     "abi-to-sol": "^0.5.0"
