@@ -120,4 +120,4 @@ sed -i '' -e 's/=0.5.0/>=0.5.0/g' $(find ./truebit -type f -name '*.sol')
 
 [Truebit](https://github.com/TruebitProtocol/truebit-eth) is not open source but their [previous codebase](https://github.com/truebitfoundation/truebit-os/) was released under [Apache 2.0](https://github.com/TrueBitFoundation/truebit-os/blob/master/LICENSE).
 
-The generated interface files in this repository are licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Files in this repository are licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
